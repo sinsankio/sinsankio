@@ -43,3 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinsankio&show_icons=true&locale=en" alt="sinsankio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinsankio&" alt="sinsankio" /></p>
+
+[![@sinsankio's Holopin board](https://holopin.me/sinsankio)](https://holopin.io/@sinsankio)
